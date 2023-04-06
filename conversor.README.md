@@ -1,3 +1,4 @@
-# divisas
-conversor-monedas-masa
-este proyecto  java esta hecho con interfaz grafica que se pueden conectar  entre si 
+r
+## este proyecto tienen 2conversores
+### conversor de divisas conversor de masa 
+este proyecto java esta echo con interfaz grafica,conectandose entre si
