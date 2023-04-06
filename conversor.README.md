@@ -1,4 +1,4 @@
-r
+
 ## este proyecto tienen 2conversores
 ### conversor de divisas conversor de masa 
-este proyecto java esta echo con interfaz grafica,conectandose entre si
+#### este proyecto java esta echo con interfaz grafica,conectandose entre si
